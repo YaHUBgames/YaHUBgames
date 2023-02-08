@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Caeca](https://github.com/YaHUBgames/Caeca)
 
-- 🌱 I’m currently learning **Unity VFX Graph, C# Generics and events, Unity asset management**
+- 🌱 I’m currently focusing on **Unity VFX Graph, C# Generics and events, Unity asset management**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
