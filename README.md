@@ -1,5 +1,5 @@
 [![MasterHead](https://cdn.pixabay.com/photo/2016/02/03/08/32/banner-1176676_960_720.jpg)](https://github.com/YaHUBgames)
-<h1 align="center">Hi, My name is Matěj Navrátil and I do game development under the YaHUBGames alias.</h1>
+<h1 align="center">Hi, My name is Matěj Navrátil and I do game development under the Making Games With A Smile alias.</h1>
 <h3 align="center">I am developer from Czechia and currently focusing on my Unity and C# skills.</h3>
 
 
